@@ -1,0 +1,314 @@
+ES
+
+## ANEXO IV
+
+## Declaración de conformidad
+
+La declaración por escrito contemplada en el artículo 15 deberá contener la siguiente información:
+
+- 1) identidad y dirección del explotador de la empresa que realice la declaración de conformidad;
+- 2) identidad y dirección del explotador de la empresa que fabrique o importe los materiales u objetos plásticos, los pro­ ductos de fases intermedias de su fabricación o las sustancias destinadas a la fabricación de dichos materiales y objetos;
+- 3) identidad de los materiales, los objetos, los productos de fases intermedias de su fabricación o las sustancias destinadas a la fabricación de dichos materiales y objetos;
+- 4) fecha de la declaración;
+- 5) confirmación de que los materiales u objetos plásticos, los productos de fases intermedias de su fabricación o las sus­ tancias  cumplen  los  requisitos  pertinentes  establecidos  en  el  presente  Reglamento  y  en  el  Reglamento  (CE) n o 1935/2004;
+- 6) información adecuada sobre las sustancias utilizadas o sus productos de degradación para los que se establecen res­ tricciones y/o especificaciones en los anexos I y II del presente Reglamento, a fin de que los explotadores de empresas que utilicen posteriormente los productos puedan garantizar la conformidad con tales restricciones;
+- 7) información adecuada sobre las sustancias que están sometidas a una restricción en alimentos, obtenida mediante datos experimentales o cálculos teóricos sobre el nivel de su migración específica y, cuando proceda, criterios de pureza de conformidad con las Directivas 2008/60/CE, 95/45/CE y 2008/84/CE, a fin de que los usuarios de estos materiales u objetos puedan cumplir las disposiciones pertinentes de la UE o, a falta de estas, las disposiciones nacionales aplicables a los alimentos;
+- 8) especificaciones sobre el uso del material o del objeto, tales como:
+- i) tipo o tipos de alimentos con los que se prevé que entrará en contacto,
+- ii) duración y temperatura del tratamiento y el almacenamiento en contacto con el alimento,
+- iii) relación  entre  la  superficie  de  contacto  con  alimentos  y  el  volumen  usada  para  determinar  la  conformidad  del material u objeto;
+- 9) cuando se utilice una barrera funcional en un material u objeto compuesto multicapa, la confirmación de que el mate­ rial u objeto cumple los requisitos del artículo 13, apartados 2, 3 y 4, o del artículo 14, apartados 2 y 3, del presente Reglamento.
+
+## ANEXO V
+
+## REALIZACIÓN DE ENSAYOS DE CONFORMIDAD
+
+Para analizar la conformidad de la migración de los materiales y objetos plásticos de contacto alimentario se aplicarán las siguientes normas generales:
+
+## CAPÍTULO 1
+
+## Ensayos de migración específica de materiales y objetos que ya están en contacto con alimentos
+
+## 1.1. Preparación de las muestras
+
+El material u objeto se almacenará tal como se indique en la etiqueta del embalaje, o en condiciones adecuadas para los alimentos embalados, si no se dan instrucciones. El alimento se retirará del contacto con el material u objeto antes de su fecha de caducidad o de cualquier fecha en la que, según el fabricante, el producto deba ser usado por motivos de calidad o seguridad.
+
+## 1.2. Condiciones de ensayo
+
+Si está destinado a ser cocinado en su embalaje, se tratará conforme a las instrucciones de cocción que figuren en el embalaje. Las partes del alimento no destinadas a ser ingeridas se retirarán y eliminarán. El resto se homogeneizará y se someterá a análisis para determinar la migración. Los resultados de análisis siempre se expresarán con relación a la masa de alimento destinada a ser ingerida que esté en contacto con el material.
+
+## 1.3. Análisis de las sustancias migradas
+
+La migración específica se analizará en el alimento usando un método de análisis que cumpla los requisitos del artí­ culo 11 del Reglamento (CE) n o 882/2004.
+
+## 1.4. Casos especiales
+
+Cuando se produzca una contaminación desde otras fuentes que no sean materiales de contacto alimentario, esto ha de tenerse en cuenta al ensayar la conformidad de los materiales de contacto alimentario, en particular para los ftala­ tos (sustancia para MCA 157, 159, 283, 728 y 729) contemplados en el anexo I.
+
+## CAPÍTULO 2
+
+Ensayos de migración específica de materiales y objetos que aún no estén en contacto con alimentos
+
+## 2.1. Método de verificación
+
+La conformidad de la migración a alimentos con los límites de migración se comprobará en las condiciones de dura­ ción y temperatura más extremas previsibles en el uso real, teniendo en cuenta los puntos 1.4, 2.1.1, 2.1.6 y 2.1.7.
+
+La conformidad de la migración a simulantes alimentarios con los límites de migración se comprobará mediante ensayos de migración convencionales con arreglo a las normas que se establecen en los puntos 2.1.1 a 2.1.7.
+
+## 2.1.1. Preparación de las muestras
+
+El material u objeto se tratará tal como se indique en las instrucciones adjuntas o se disponga en la declaración de conformidad.
+
+La migración se determinará con el material u objeto o, si esto no es factible, con una muestra tomada del material u objeto, o con una muestra representativa de este material u objeto. Para cada tipo de simulante alimentario o ali­ mento se usará una nueva muestra de ensayo. Solo las partes de la muestra que estén destinadas a entrar en contacto con alimentos en su uso real se pondrán en contacto con el simulante o el alimento.
+
+## 2.1.2. Elección del simulante alimentario
+
+Los materiales y objetos destinados a entrar en contacto con todos los tipos de alimentos se someterán a ensayo con los simulantes A, B y D2. No obstante, si no están presentes sustancias que puedan reaccionar con simulantes o ali­ mentos ácidos, podrá omitirse el ensayo con el simulante alimentario B.
+
+Los materiales y objetos destinados solo a tipos específicos de alimentos someterán a ensayo con los simulantes ali­ mentarios indicados para cada tipo de alimento en el anexo III.
+
+## 2.1.3. Condiciones de contacto al usar simulantes alimentarios
+
+La muestra se pondrá en contacto con el simulante alimentario de un modo que represente las peores condiciones posibles de uso con respecto al tiempo de contacto del cuadro 1 y a la temperatura de contacto del cuadro 2.
+
+Si se halla que la realización de los ensayos combinando las condiciones de contacto de los cuadros 1 y 2 causa cam­ bios físicos o de otro tipo en la muestra de ensayo que no suceden en las peores condiciones previsibles de uso del material u objeto que se examina, los ensayos de migración se realizarán con arreglo a las peores condiciones pre­ visibles de uso en las que esos cambios físicos o de otro tipo no se produzcan.
+
+Cuadro 1:
+
+## Tiempo de contacto
+
+Cuadro 2:
+Si el tiempo de contacto previsto es tiempo de contacto en las peores condiciones  previsibles de uso, la duración del ensayo será de duración del ensayo.
+Si el tiempo de contacto previsto es --------------------------------------------------------------------, la duración del ensayo será de ------------------------------------.
+Si el tiempo de contacto previsto es t  ≤  5 min, la duración del ensayo será de 5 min.
+Si el tiempo de contacto previsto es 5 min < t ≤ 0,5 h, la duración del ensayo será de 0,5 hora.
+Si el tiempo de contacto previsto es 0,5 h < t ≤ 1 h, la duración del ensayo será de 1 hora.
+Si el tiempo de contacto previsto es 1 h < t ≤ 2 h, la duración del ensayo será de 2 horas.
+Si el tiempo de contacto previsto es 2 h < t ≤ 6 h, la duración del ensayo será de 6 horas.
+Si el tiempo de contacto previsto es 6 h < t ≤ 24 h, la duración del ensayo será de 24 horas.
+Si el tiempo de contacto previsto es 1 día < t ≤ 3 días, la duración del ensayo será de 3 días.
+Si el tiempo de contacto previsto es 3 días < t ≤ 30 días, la duración del ensayo será de 10 días.
+Si el tiempo de contacto es superior a 30 días, deberán consultarse las condiciones específicas aplicables.
+## Temperatura de contacto
+Si el tiempo de contacto previsto es contacto en las peores condiciones previsibles de uso, la duración del ensayo será de condiciones de ensayo.
+Si el tiempo de contacto previsto es ---------------------------------------------------------, la duración del ensayo será de ---------------------------------------------------------------------------------------------.
+Si el tiempo de contacto previsto es temperatura de contacto, la duración del ensayo será de temperatura de ensayo.
+Si el tiempo de contacto previsto es t ≤ 5 °c, la duración del ensayo será de 5 °c.
+Si el tiempo de contacto previsto es 5 °c < t ≤ 20 °c, la duración del ensayo será de 20 °c.
+Si el tiempo de contacto previsto es 20 °c < t ≤ 40 °c, la duración del ensayo será de 40 °c.
+Si el tiempo de contacto previsto es 40 °c < t ≤ 70 °c, la duración del ensayo será de 70 °c.
+Si el tiempo de contacto previsto es 70 °c < t ≤ 100 °c, la duración del ensayo será de 100 °c o temperatura de reflujo.
+Si el tiempo de contacto previsto es 100 °c < t ≤ 121 °c, la duración del ensayo será de 121 °c ( * ).
+Si el tiempo de contacto previsto es 121 °c < t ≤ 130 °c, la duración del ensayo será de 130 °c ( * ).
+Si el tiempo de contacto previsto es 130 °c < t ≤ 150 °c, la duración del ensayo será de 150 °c ( * ).
+Si el tiempo de contacto previsto es 150 °c < t < 175 °c, la duración del ensayo será de 175 °c ( * ).
+Si el tiempo de contacto previsto es t > 175 °c, la duración del ensayo será de ajustar la temperatura a la temperatura real en el  punto de contacto con el alimento ( * ).
+( * ) Esta temperatura se usará solo para los simulantes alimentarios D2 y E. Para las aplicaciones calentadas bajo presión, el ensayo de migración podrá efectuarse bajo presión a la temperatura pertinente. Para los simulantes alimentarios A, B, C o D1, el ensayo puede sustituirse por un ensayo a 100 °C o a temperatura de reflujo con una duración cuatro veces superior a la seleccionada conforme a las condiciones del cuadro 1.
+
+## 2.1.4. Condiciones específicas para tiempos de contacto superiores a 30 días a temperatura ambiente o inferior
+
+Para tiempos de contacto superiores a 30 días a temperatura ambiente o inferior, la muestra se someterá a ensayo acelerado a temperatura elevada, durante un máximo de diez días y a 60 °C. La duración del ensayo y las condicio­ nes de temperatura se basarán en la siguiente fórmula:
+
+t2 = t1 * Exp ((-Ea/R) * (1/T1-1/T2))
+
+Ea es la energía de activación en el caso más desfavorable, 80 kJ/mol.
+
+R es un factor 8,31 J/K/mol.
+
+Exp -9627 * (1/T1-1/T2).
+
+t1 es el tiempo de contacto.
+
+t1 es el tiempo de ensayo.
+
+T1 es la temperatura de contacto en kelvin. Para un almacenamiento a temperatura ambiente, esta temperatura se fija en 298 K (25 °C). Para refrigeración y congelación, se fija en 278 K (5 °C).
+
+T2 es la temperatura de ensayo en kelvin.
+
+El ensayo durante 10 días a 20 °C cubrirá todos los períodos de almacenamiento congelado.
+
+El  ensayo  durante  10  diez  días  a  40 °C  cubrirá  todos  los  períodos  de  almacenamiento  refrigerado  y  congelado, incluido el calentamiento hasta 70 °C durante un máximo de 2 horas, o el calentamiento hasta 100 °C durante un máximo de 15 minutos.
+
+El  ensayo  durante  10  diez  días  a  50 °C  cubrirá  todos  los  períodos  de  almacenamiento  refrigerado  y  congelado, incluido el calentamiento hasta 70 °C durante un máximo de 2 horas, o el calentamiento hasta 100 °C durante un máximo de 15 minutos, y los períodos de almacenamiento de hasta seis meses a temperatura ambiente.
+
+El ensayo durante 10 diez días a 60 °C cubrirá todos los períodos de almacenamiento prolongado superiores a seis meses, a temperatura ambiente o inferior, incluido el calentamiento hasta 70 °C durante un máximo de 2 horas, o el calentamiento hasta 100 °C durante un máximo de 15 minutos.
+
+La temperatura máxima de ensayo se rige por la temperatura de transición de fase del polímero. A la temperatura de ensayo, la muestra no debe sufrir ningún cambio físico.
+
+Para el almacenamiento a temperatura ambiente, el tiempo de ensayo puede reducirse a 10 días a 40 °C si hay prue­ bas científicas de que la migración de la sustancia correspondiente del polímero ha alcanzado un equilibrio en estas condiciones de ensayo.
+
+## 2.1.5. Condiciones específicas para combinaciones de tiempos y temperaturas de contacto
+
+Si un material u objeto se destina a diferentes aplicaciones que incluyan distintas combinaciones de tiempo y tem­ peratura de contacto, el ensayo debe limitarse a las condiciones de ensayo que, sobre la base de pruebas científicas, se consideren las más estrictas.
+
+Si el material u objeto se destina a una aplicación en contacto con alimentos en la que esté sucesivamente sujeto a una combinación de dos o más tiempos y temperaturas, el ensayo de migración se llevará a cabo sometiendo la mues­ tra sucesivamente a todas las peores condiciones previsibles apropiadas para la muestra, usando la misma porción de simulante alimentario.
+
+## 2.1.6. Objetos de uso repetido
+
+Si el material u objeto se destina a entrar en contacto repetidamente con alimentos, el ensayo o ensayos de migra­ ción se efectuarán tres veces en una sola muestra, usando otra porción de simulante alimentario en cada ocasión. La conformidad de dicho material u objeto se controlará sobre la base del nivel de migración que se encuentre en el tercer ensayo.
+
+No obstante, si existe una prueba concluyente de que el nivel de migración no aumenta en el segundo y tercer ensayo, y si no se sobrepasan los límites de migración en el primer ensayo, no serán necesarios los siguientes.
+
+ES
+
+El material u objeto deberá respetar ya en el primer ensayo el límite de migración específica de las sustancias para las que en el cuadro 1, columna 8, o en el cuadro 2, columna 3, del anexo I, este límite se fije como «no detectable», así como de las sustancias no recogidas en listas que se usen tras una barrera funcional plástica, con arreglo a lo dis­ puesto en el artículo 13, apartado 2, letra b), que no deben migrar en cantidades detectables.
+
+## 2.1.7. Análisis de las sustancias que migran
+
+Al final del tiempo de contacto prescrito, la migración específica se analizará en el alimento o simulante alimentario usando un método de análisis que cumpla los requisitos del artículo 11 del Reglamento (CE) n o 882/2004.
+
+## 2.1.8. Verificación de la conformidad en función del contenido residual por superficie en contacto con el alimento (CMA);
+
+Para sustancias que son inestables en simulantes alimentarios o alimentos o para las que no se dispone de un método de análisis adecuado, en el anexo I se indica que la verificación de la conformidad se hará comprobando el contenido residual por 6 dm 2 de superficie de contacto. Para materiales y objetos entre 500 ml y 10 l se aplica la superficie de contacto real. Para materiales y objetos de capacidad inferior a 500 ml o superior a 10 l, así como para objetos para los que no resulte factible calcular la superficie de contacto real, se supondrá que la superficie de contacto es de 6 dm 2 por kg de alimento.
+
+## 2.2. Técnicas de cribado
+
+Para determinar por cribado si un material u objeto cumplen los límites de migración podrá aplicarse cualquier téc­ nica de las siguientes que se considere más estricta que el método de verificación descrito en el punto 2.1.
+
+## 2.2.1. Sustitución de migración específica por migración global
+
+Para cribar la migración específica de sustancias no volátiles puede llevarse a cabo la determinación de la migración global en condiciones de ensayo al menos tan estrictas como para la migración específica.
+
+## 2.2.2. Contenido residual
+
+Para cribar la migración específica puede calcularse el potencial de migración sobre la base del contenido residual de la sustancia en el material u objeto suponiendo una migración completa.
+
+## 2.2.3. Simulación de la migración
+
+Para cribar la migración específica puede calcularse el potencial de migración sobre la base del contenido residual de la sustancia en el material u objeto, aplicando modelos de difusión generalmente reconocidos basados en datos cien­ tíficos, construidos de modo que sobreestimen la migración real.
+
+## 2.2.4. Sucedáneos de los simulantes alimentarios
+
+Para cribar la migración específica, los simulantes alimentarios pueden sustituirse por sucedáneos si, con arreglo a datos científicos,  los  sucedáneos  de  simulantes  sobrestiman  la  migración  en  comparación  con  los  simulantes  ali­ mentarios regulados.
+
+## CAPÍTULO 3
+
+## Ensayos de migración global
+
+Los ensayos de migración global se realizarán con arreglo a las condiciones normalizadas de ensayo que se estable­ cen en el presente capítulo.
+
+## 3.1. Condiciones normalizadas de ensayo
+
+El ensayo de migración global de materiales y objetos destinados a entrar en contacto con alimentos que se describe en la columna 3 del cuadro 3 se efectuará en las condiciones de tiempo y temperatura que se indican en la columna 2. El ensayo de migración global OM5 podrá efectuarse bien durante 2 horas a 100 °C (simulante alimentario D2) o a temperatura de reflujo (simulantes A, B, C o D1), o bien durante 1 hora a 121 °C.
+
+Si se halla que la realización de los ensayos en las condiciones de contacto del cuadro 3 causa cambios físicos o de otro tipo en la muestra de ensayo que no suceden en las peores condiciones previsibles de uso del material u objeto que se examina, los ensayos de migración se realizarán con arreglo a las peores condiciones previsibles de uso en las que esos cambios físicos o de otro tipo no se produzcan.
+
+Cuadro 3:
+
+## Condiciones normalizadas de ensayo
+El número de ensayo columna 1, el tiempo de contacto en días [d] u horas [h] a Temperatura  de contacto en °C es de columna 2, las condiciones de contacto alimentario  previstas es columna 3
+El número de ensayo ------------------, el tiempo de contacto en días [d] u horas [h] a Temperatura  de contacto en °C es de -----------------------------------------------------------------------------, las condiciones de contacto alimentario  previstas es --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+El número de ensayo número de ensayo, el tiempo de contacto en días [d] u horas [h] a Temperatura  de contacto en °C es de tiempo de contacto en días [d] u horas [h] a temperatura  de contacto en °c, las condiciones de contacto alimentario  previstas es condiciones de contacto alimentario  previstas
+El número de ensayo om1, el tiempo de contacto en días [d] u horas [h] a Temperatura  de contacto en °C es de 10 d a 20 °c, las condiciones de contacto alimentario  previstas es contacto con alimentos congelados o  refrigerados.
+El número de ensayo om2, el tiempo de contacto en días [d] u horas [h] a Temperatura  de contacto en °C es de 10 d a 40 °c, las condiciones de contacto alimentario  previstas es almacenamiento  prolongado  temperatura  ambiente  o  inferior,  incluido el calentamiento hasta 70 °c  durante un máximo de 2 horas, o el  calentamiento  hasta  100 °c  durante  un máximo de 15 minutos.
+El número de ensayo om3, el tiempo de contacto en días [d] u horas [h] a Temperatura  de contacto en °C es de 2 h a 70 °c, las condiciones de contacto alimentario  previstas es condiciones  de  contacto  que  impliquen  el  calentamiento  hasta  70 °c durante un máximo de 2 horas,  o  el  calentamiento  hasta  100 °c  durante un máximo de 15 minutos, y  que  no  vayan  seguidas  de  un  almacenamiento  prolongado  temperatura ambiente o refrigerada.
+El número de ensayo om4, el tiempo de contacto en días [d] u horas [h] a Temperatura  de contacto en °C es de 1 h a 100 °c, las condiciones de contacto alimentario  previstas es aplicaciones  en  caliente  para  todos  los  simulantes  alimentarios  temperaturas de hasta 100 °c.
+El número de ensayo om5, el tiempo de contacto en días [d] u horas [h] a Temperatura  de contacto en °C es de 2 h a 100 °c o a temperatura de reflujo o, como  alternativa, 1 h a 121 °c, las condiciones de contacto alimentario  previstas es aplicaciones  en  calienta  temperaturas de hasta 121 °c.
+El número de ensayo om6, el tiempo de contacto en días [d] u horas [h] a Temperatura  de contacto en °C es de 4 h a 100 °c o a temperatura de reflujo, las condiciones de contacto alimentario  previstas es condiciones  de  contacto  con  los  simulantes  a,  b  o  c,  a  temperatura  superior a 40 °c.
+El número de ensayo om7, el tiempo de contacto en días [d] u horas [h] a Temperatura  de contacto en °C es de 2 h a 175 °c, las condiciones de contacto alimentario  previstas es aplicaciones  en  caliente  con  alimentos  grasos  a  condiciones  que  rebasen las de om5.
+El ensayo OM7 incluye asimismo las condiciones de contacto alimentario descritas para OM1, OM2, OM3, OM4 y OM5. Representa las condiciones del caso más desfavorable para simulantes alimentarios grasos en contacto con polímeros distintos de las poliolefinas. En caso de que no sea técnicamente posible de efectuar OM7 con el simu­ lante alimentario D2, el ensayo podrá sustituirse con arreglo a lo que establece el punto 3.2.
+
+El ensayo OM6 incluye asimismo las condiciones de contacto alimentario descritas para OM1, OM2, OM3, OM4 y OM5. Representa las condiciones del caso más desfavorable para los simulantes alimentarios A, B y C en contacto con polímeros distintos de las poliolefinas.
+
+El ensayo OM5 incluye asimismo las condiciones de contacto alimentario descritas para OM1, OM2, OM3 y OM4. Representa  las  condiciones  del  caso  más  desfavorable  para  todos  los  simulantes  alimentarios  en  contacto  con poliolefinas.
+
+El ensayo OM2 incluye asimismo las condiciones de contacto alimentario descritas para OM1 y OM3.
+
+## 3.2. Ensayo sustitutivo de OM7 con el simulante alimentario D2
+
+En caso de que no sea técnicamente posible efectuar OM7 con el simulante alimentario D2, el ensayo podrá susti­ tuirse por los ensayos OM8 u OM9. Ambos ensayos se llevarán a cabo con una nueva muestra de ensayo.
+El número de ensayo número de ensayo, la condiciones de ensayo son condiciones de ensayo, las condiciones de contacto alimentario  previstas es condiciones de contacto  alimentario previstas, incluye las condiciones de contacto alimentario descritas para incluye las condiciones de con­tacto alimentario descritas para
+El número de ensayo --------------------, la condiciones de ensayo son --------------------------------------------------------------------------------------------------------------, las condiciones de contacto alimentario  previstas es -------------------------------------------------------------------------------------------------, incluye las condiciones de contacto alimentario descritas para --------------------------------------------------------------------
+El número de ensayo om8, la condiciones de ensayo son simulante  alimentario  durante  2 horas  a  175 °c  y  simulante  alimentario  d2  durante 2 horas a 100 °c, las condiciones de contacto alimentario  previstas es únicamente  aplicaciones  en  caliente, incluye las condiciones de contacto alimentario descritas para om1,  om3,  om4,  om5  y  om6
+El número de ensayo om9, la condiciones de ensayo son simulante  alimentario  durante  2 horas  a  175 °c  y  simulante  alimentario  d2  durante 10 días a 40 °c, las condiciones de contacto alimentario  previstas es aplicaciones  en  caliente,  incluido  el  almacenamiento  prolongado  a  temperatura  ambiente, incluye las condiciones de contacto alimentario descritas para om1, om2, om3, om4, om5  y om6
+## 3.3. Objetos de uso repetido
+
+Cuando un material u objeto se destine a entrar en contacto repetidamente con alimentos, el ensayo de migración se efectuará tres veces en una sola muestra, usando otra porción del simulante alimentario en cada ocasión.
+
+La conformidad de dicho material u objeto se controlará sobre la base del nivel de migración que se encuentre en el tercer ensayo. No obstante, si existe una prueba concluyente de que el nivel de migración no aumenta en el segundo y  tercer  ensayo,  y  si  no  se  sobrepasa  el  límite  de  migración  global  en  el  primer  ensayo,  no  serán  necesarios  los siguientes.
+
+## 3.4. Técnicas de cribado
+
+Para determinar por cribado si un material u objeto cumplen los límites de migración podrá aplicarse cualquier téc­ nica de las siguientes que se considere más estricta que el método de verificación descrito en los apartados 3.1 y 3.2.
+
+## 3.4.1. Contenido residual
+
+Para cribar la migración global puede calcularse el potencial de migración sobre la base del contenido residual de sustancias migrables determinado en una extracción completa del material u objeto.
+
+## 3.4.2. Sucedáneos de los simulantes alimentarios
+
+Para cribar la migración global, los simulantes alimentarios pueden sustituirse por sucedáneos si, con arreglo a datos científicos, los sucedáneos de simulantes sobrestiman la migración en comparación con los simulantes alimentarios regulados.
+
+## CAPÍTULO 4
+
+Factores de corrección aplicados para comparar los resultados de ensayos de migración con los límites de migración
+
+## 4.1. Corrección de la migración específica en alimentos que contengan más de un 20 % de grasa mediante el coefi­ ciente de reducción de grasas (Fat Reduction Factor o FRF)
+
+La migración específica de las sustancias lipofílicas para las que en la columna 7 del anexo I se indica que el FRF es aplicable puede ser corregida mediante este coeficiente. El FRF se determina con arreglo a la fórmula FRF = (g de grasa en alimento/kg de alimento)/200 = (% grasa × 5)/100.
+
+El FRF se aplicará con arreglo a las normas que se establecen a continuación.
+
+Los resultados de ensayos de migración se dividirán por el FRF antes de compararlos con los límites de migración.
+
+ES
+
+La corrección con el FRF no se aplicará en los siguientes casos:
+
+- a) cuando el material o el objeto esté en contacto con alimentos destinados a lactantes y niños de corta edad, tal como se definen en las Directivas 2006/141/CE y 2006/125/CE, o esté destinado a estarlo;
+- b) en el caso de materiales y objetos para los que no sea posible estimar la relación entre su superficie y la cantidad de alimento en contacto con ellos, debido, por ejemplo, a su forma o su uso, y para los que la migración se cal­ cule utilizando el factor convencional de conversión de superficie/volumen de 6 dm 2 /kg.
+
+La aplicación del FRF no conducirá a una migración específica que supere el límite general de migración.
+
+## 4.2. Corrección de la migración al simulante alimentario D2
+
+Con respecto a las categorías de alimentos para las que en la subcolumna D2 de la columna 3 del cuadro 2 del anexo III figure el aspa seguida de una cifra, el resultado del ensayo de migración al simulante alimentario D2 se dividirá por esta cifra.
+
+Los resultados de ensayos de migración se dividirán por el factor de corrección antes de compararlos con los límites de migración.
+
+La corrección no será aplicable a la migración específica de las sustancias de la lista de la Unión que figura en el anexo I para las que el límite de migración específica de la columna 8 sea «no detectable», ni a las sustancias no recogidas en listas que se usen tras una barrera funcional plástica, con arreglo a lo dispuesto en el artículo 13, apartado 2, letra b), que no deben migrar en cantidades detectables.
+
+## 4.3. Combinación de los factores de corrección 4.1 y 4.2
+
+Los factores de corrección descritos en 4.1 y 4.2 podrán combinarse, multiplicando ambos factores, para la migración de sustancias para las cuales sea aplicable el FRF al efectuar los ensayos en el simulante D2. El máximo factor aplicado no excederá de 5.
+
+## ANEXO VI
+
+## Tablas de correspondencias
+
+| Directiva 2002/72/CE                                                                                                                  | Presente Reglamento   |
+|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------|
+| Artículo 1, apartado 1                                                                                                                | Artículo 1            |
+| Artículo 1, apartados 2, 3 y 4                                                                                                        | Artículo 2            |
+| Artículo 1 bis                                                                                                                        | Artículo 3            |
+| Artículo 3, apartado 1; artículo 4, apartado 1; y artículo 5                                                                          | Artículo 5            |
+| Artículo 4, apartado 2; artículo 4   bis ,  apartados 1 y 4; artículo 4   quinquies anexo II, puntos 2 y 3; y anexo III, puntos 2 y 3 | Artículo 6            |
+| Artículo 4   bis ,  apartados 3 y 6                                                                                                   | Artículo 7            |
+| Anexo II, punto 4; y anexo III, punto 4                                                                                               | Artículo 8            |
+| Artículo 3, apartado 1; y artículo 4, apartado 1                                                                                      | Artículo 9            |
+| Artículo 6                                                                                                                            | Artículo 10           |
+| Artículo 5   bis ,  apartado 1; y anexo I, punto 8                                                                                    | Artículo 11           |
+| Artículo 2                                                                                                                            | Artículo 12           |
+| Artículo 7 bis                                                                                                                        | Artículo 13           |
+| Artículo 9, apartados 1 y 2                                                                                                           | Artículo 15           |
+| Artículo 9, apartado 3                                                                                                                | Artículo 16           |
+| Artículo 7; y anexo I, punto 5   bis                                                                                                  | Artículo 17           |
+| Artículo 8                                                                                                                            | Artículo 18           |
+| Anexo II, punto 3; y anexo III, punto 3                                                                                               | Artículo 19           |
+| Anexo I; anexo II; anexo IV; anexo IV   bis ;  anexo V, parte B; y anexo VI                                                           | Anexo I               |
+| Anexo II, punto 2; anexo III, punto 2; y anexo V, parte A                                                                             | Anexo II              |
+| Artículo 8, apartado 5; y anexo VI   bis                                                                                              | Anexo IV              |
+| Anexo I                                                                                                                               | Anexo V               |
+
+| Directiva 93/8/CEE   | Presente Reglamento   |
+|----------------------|-----------------------|
+| Artículo 1           | Artículo 11           |
+| Artículo 1           | Artículo 12           |
+| Artículo 1           | Artículo 18           |
+| Anexo                | Anexo III             |
+| Anexo                | Anexo V               |
+
+| Directiva 97/48/CE   | Presente Reglamento   |
+|----------------------|-----------------------|
+| Anexo                | Anexo III             |
+| Anexo                | Anexo V               |

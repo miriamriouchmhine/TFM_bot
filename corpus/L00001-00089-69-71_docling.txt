@@ -1,0 +1,55 @@
+## 2. Restricciones de grupos de sustancias
+
+El cuadro 2, sobre restricciones de grupo, contiene la siguiente información:
+
+Columna 1, «N o de restricción de grupo»: número de identificación del grupo de sustancias al que se aplica la restricción de grupo. Es el número que figura en la columna 9 del cuadro 1 del presente anexo.
+
+Columna 2, «N o de sustancia para MCA»: números de identificación únicos de las sustancias a las que se aplica la res­ tricción de grupo. Es el número que figura en la columna 1 del cuadro 1 del presente anexo.
+
+Columna 3, «LME (T) (mg/kg)»: límite de migración específica total para la suma de las sustancias aplicable a este grupo. Se expresa en mg de sustancia por kg de alimento. Se señala «ND» si la sustancia no debe migrar en cantidades detectables.
+
+Columna 4, «Especificación sobre la restricción de grupo»: indicación de la sustancia cuyo peso molecular forma la base para la expresión del resultado.
+
+Cuadro 2
+
+| (1)                           | (2)                         | (3)             | (4)                                          |
+|-------------------------------|-----------------------------|-----------------|----------------------------------------------|
+| N o  de restricción  de grupo | N o  de sustancia  para MCA | LME (T) (mg/kg) | Especificación sobre la restricción de grupo |
+| 1                             | 128 211                     | 6               | Expresado como acetaldehído                  |
+| 2                             | 89 227                      | 30              | Expresado como etilenglicol                  |
+| 3                             | 234 248                     | 30              | Expresado como ácido maleico                 |
+| 4                             | 212 435                     | 15              | Expresado como caprolactama                  |
+| 5                             | 137 472                     | 3               | Expresado como la suma de las sustancias     |
+| 6                             | 412 512 513 588             | 1               | Expresado como yodo                          |
+| 7                             | 19 20                       | 1,2             | Expresado como amina terciaria               |
+| 8                             | 317 318 319 359 431 464     | 6               | Expresado como la suma de las sustancias     |
+| 9                             | 650 695 697 698             | 0,18            | Expresado como estaño                        |
+
+|   (1) | (2)                                               | (3)   | (4)                                                                        |
+|-------|---------------------------------------------------|-------|----------------------------------------------------------------------------|
+|    10 | 29 30 31 32 33 466 582 618 619 620 646            | 0,006 | Expresado como estaño                                                      |
+|    11 | 66 645                                            | 1,2   | Expresado como estaño                                                      |
+|    12 | 444 469                                           | 30    | Expresado como la suma de las sustancias                                   |
+|    13 | 163 285                                           | 1,5   | Expresado como la suma de las sustancias                                   |
+|    14 | 294                                               | 5     | Expresado como la suma de las sustancias                                   |
+|    15 | 98                                                | 15    | Expresado como formaldehído                                                |
+|    16 | 407 583 584 599                                   | 6     | Expresado como boro Sin perjuicio de lo dispuesto en la Directiva 98/83/CE |
+|    17 | 4 167 169 198 274 354 372 460 461 475 476 485 490 | ND    | Expresado como grupo isocianato                                            |
+|    18 | 705                                               | 0,05  | Expresado como la suma de las sustancias                                   |
+|    19 | 505 516 519                                       | 10    | Expresado como SO 2                                                        |
+|    20 | 290 386 390                                       | 30    | Expresado como la suma de las sustancias                                   |
+|    21 | 347 349                                           | 5     | Expresado como ácido trimelítico                                           |
+
+|   (1) | (2)                                                                     | (3)   | (4)                                                                                                                                                                                                |
+|-------|-------------------------------------------------------------------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|    22 | 70 147 176 218 323 325 365 371 380 425 446 448                          | 6     | Expresado como ácido acrílico                                                                                                                                                                      |
+|    23 | 150 156 181 183 184 355 370 374                                         | 6     | Expresado como ácido metacrílico                                                                                                                                                                   |
+|    24 | 756                                                                     | 5     | Expresado como la suma de las sustancias                                                                                                                                                           |
+|    25 | 720                                                                     | 0,05  | Suma de tris(isooctil mercaptoacetato) de mono-n-dodecilestaño,  bis(isooctil mercaptoacetato) de di-n-dodecilestaño, tricloruro de  mono-dodecilestaño y dicloruro de di-dodecilestaño, expresada |
+|    26 | 728                                                                     | 9     | Expresado como la suma de las sustancias                                                                                                                                                           |
+|    27 | 188                                                                     | 5     | Expresado como ácido isoftálico                                                                                                                                                                    |
+|    28 | 191 192 785                                                             | 7,5   | Expresado como ácido tereftálico                                                                                                                                                                   |
+|    29 | 342                                                                     | 0,05  | Expresado como la suma de ácido 6-hidroxihexanoico y capro­                                                                                                                                        |
+|    30 | 254 672                                                                 | 5     | Expresado como 1,4-butanodiol                                                                                                                                                                      |
+|    31 | 73                                                                      | 30    | Expresado como la suma de las sustancias                                                                                                                                                           |
+|    32 | 8 72 73 138 140 157 159 207 242 283 532 670 728 729 775 783 797 798 810 | 60    | Expresado como la suma de las sustancias                                                                                                                                                           |

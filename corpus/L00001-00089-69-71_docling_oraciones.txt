@@ -1,0 +1,91 @@
+## 2. Restricciones de grupos de sustancias
+
+El cuadro 2, sobre restricciones de grupo, contiene la siguiente información:
+
+Columna 1, «N o de restricción de grupo»: número de identificación del grupo de sustancias al que se aplica la restricción de grupo. Es el número que figura en la columna 9 del cuadro 1 del presente anexo.
+
+Columna 2, «N o de sustancia para MCA»: números de identificación únicos de las sustancias a las que se aplica la res­ tricción de grupo. Es el número que figura en la columna 1 del cuadro 1 del presente anexo.
+
+Columna 3, «LME (T) (mg/kg)»: límite de migración específica total para la suma de las sustancias aplicable a este grupo. Se expresa en mg de sustancia por kg de alimento. Se señala «ND» si la sustancia no debe migrar en cantidades detectables.
+
+Columna 4, «Especificación sobre la restricción de grupo»: indicación de la sustancia cuyo peso molecular forma la base para la expresión del resultado.
+
+Cuadro 2
+
+| (1)                           | (2)                         | (3)             | (4)                                          |
+|-------------------------------|-----------------------------|-----------------|----------------------------------------------|
+| N o  de restricción  de grupo | N o  de sustancia  para MCA | LME (T) (mg/kg) | Especificación sobre la restricción de grupo |
+
+|   (1) | (2)                                               | (3)   | (4)                                                                        |
+|-------|---------------------------------------------------|-------|----------------------------------------------------------------------------|
+
+|   (1) | (2)                                                                     | (3)   | (4)                                                                                                                                                                                                |
+|-------|-------------------------------------------------------------------------|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+# Oraciones generadas a partir de las tablas:
+
+El grupo de restricción número 1 se aplica a las sustancias 128 211. El límite de migración total (LME) es de 6 mg/kg. Expresado como acetaldehído.
+
+El grupo de restricción número 2 se aplica a las sustancias 89 227. El límite de migración total (LME) es de 30 mg/kg. Expresado como etilenglicol.
+
+El grupo de restricción número 3 se aplica a las sustancias 234 248. El límite de migración total (LME) es de 30 mg/kg. Expresado como ácido maleico.
+
+El grupo de restricción número 4 se aplica a las sustancias 212 435. El límite de migración total (LME) es de 15 mg/kg. Expresado como caprolactama.
+
+El grupo de restricción número 5 se aplica a las sustancias 137 472. El límite de migración total (LME) es de 3 mg/kg. Expresado como la suma de las sustancias.
+
+El grupo de restricción número 6 se aplica a las sustancias 412 512 513 588. El límite de migración total (LME) es de 1 mg/kg. Expresado como yodo.
+
+El grupo de restricción número 7 se aplica a las sustancias 19 20. El límite de migración total (LME) es de 1,2 mg/kg. Expresado como amina terciaria.
+
+El grupo de restricción número 8 se aplica a las sustancias 317 318 319 359 431 464. El límite de migración total (LME) es de 6 mg/kg. Expresado como la suma de las sustancias.
+
+El grupo de restricción número 9 se aplica a las sustancias 650 695 697 698. El límite de migración total (LME) es de 0,18 mg/kg. Expresado como estaño.
+
+El grupo de restricción número 10 se aplica a las sustancias 29 30 31 32 33 466 582 618 619 620 646. El límite de migración total (LME) es de 0,006 mg/kg. Expresado como estaño.
+
+El grupo de restricción número 11 se aplica a las sustancias 66 645. El límite de migración total (LME) es de 1,2 mg/kg. Expresado como estaño.
+
+El grupo de restricción número 12 se aplica a las sustancias 444 469. El límite de migración total (LME) es de 30 mg/kg. Expresado como la suma de las sustancias.
+
+El grupo de restricción número 13 se aplica a las sustancias 163 285. El límite de migración total (LME) es de 1,5 mg/kg. Expresado como la suma de las sustancias.
+
+El grupo de restricción número 14 se aplica a las sustancias 294. El límite de migración total (LME) es de 5 mg/kg. Expresado como la suma de las sustancias.
+
+El grupo de restricción número 15 se aplica a las sustancias 98. El límite de migración total (LME) es de 15 mg/kg. Expresado como formaldehído.
+
+El grupo de restricción número 16 se aplica a las sustancias 407 583 584 599. El límite de migración total (LME) es de 6 mg/kg. Expresado como boro Sin perjuicio de lo dispuesto en la Directiva 98/83/CE.
+
+El grupo de restricción número 17 se aplica a las sustancias 4 167 169 198 274 354 372 460 461 475 476 485 490. El límite de migración total (LME) es de ND mg/kg. Expresado como grupo isocianato.
+
+El grupo de restricción número 18 se aplica a las sustancias 705. El límite de migración total (LME) es de 0,05 mg/kg. Expresado como la suma de las sustancias.
+
+El grupo de restricción número 19 se aplica a las sustancias 505 516 519. El límite de migración total (LME) es de 10 mg/kg. Expresado como SO 2.
+
+El grupo de restricción número 20 se aplica a las sustancias 290 386 390. El límite de migración total (LME) es de 30 mg/kg. Expresado como la suma de las sustancias.
+
+El grupo de restricción número 21 se aplica a las sustancias 347 349. El límite de migración total (LME) es de 5 mg/kg. Expresado como ácido trimelítico.
+
+El grupo de restricción número 22 se aplica a las sustancias 70 147 176 218 323 325 365 371 380 425 446 448. El límite de migración total (LME) es de 6 mg/kg. Expresado como ácido acrílico.
+
+El grupo de restricción número 23 se aplica a las sustancias 150 156 181 183 184 355 370 374. El límite de migración total (LME) es de 6 mg/kg. Expresado como ácido metacrílico.
+
+El grupo de restricción número 24 se aplica a las sustancias 756. El límite de migración total (LME) es de 5 mg/kg. Expresado como la suma de las sustancias.
+
+El grupo de restricción número 25 se aplica a las sustancias 720. El límite de migración total (LME) es de 0,05 mg/kg. Suma de tris(isooctil mercaptoacetato) de mono-n-dodecilestaño,  bis(isooctil mercaptoacetato) de di-n-dodecilestaño, tricloruro de  mono-dodecilestaño y dicloruro de di-dodecilestaño, expresada.
+
+El grupo de restricción número 26 se aplica a las sustancias 728. El límite de migración total (LME) es de 9 mg/kg. Expresado como la suma de las sustancias.
+
+El grupo de restricción número 27 se aplica a las sustancias 188. El límite de migración total (LME) es de 5 mg/kg. Expresado como ácido isoftálico.
+
+El grupo de restricción número 28 se aplica a las sustancias 191 192 785. El límite de migración total (LME) es de 7,5 mg/kg. Expresado como ácido tereftálico.
+
+El grupo de restricción número 29 se aplica a las sustancias 342. El límite de migración total (LME) es de 0,05 mg/kg. Expresado como la suma de ácido 6-hidroxihexanoico y capro­.
+
+El grupo de restricción número 30 se aplica a las sustancias 254 672. El límite de migración total (LME) es de 5 mg/kg. Expresado como 1,4-butanodiol.
+
+El grupo de restricción número 31 se aplica a las sustancias 73. El límite de migración total (LME) es de 30 mg/kg. Expresado como la suma de las sustancias.
+
+El grupo de restricción número 32 se aplica a las sustancias 8 72 73 138 140 157 159 207 242 283 532 670 728 729 775 783 797 798 810. El límite de migración total (LME) es de 60 mg/kg. Expresado como la suma de las sustancias.
+

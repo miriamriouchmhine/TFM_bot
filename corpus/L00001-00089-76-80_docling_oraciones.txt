@@ -1,0 +1,150 @@
+El simulante para el que figure un aspa en la respectiva subcolumna de la columna 3 se usará para ensayar la migración de materiales y objetos que aún no estén en contacto con alimentos.
+
+Cuando en la subcolumna D2 figure el aspa seguida de una barra y una cifra, el resultado del ensayo de migración para la  categoría de alimento correspondiente se dividirá por esta cifra antes de compararlo con el límite de migración. La cifra es el factor de corrección referido en el punto 4.2 del anexo V del presente Reglamento.
+
+Para la categoría de alimentos 01.04, el simulante alimentario D2 se sustituirá por etanol al 95 %.
+
+En el  caso  de  las  categorías  de  alimentos  para  las  que  en  la  subcolumna  B  el  aspa  vaya  seguida  de  un  asterisco  (*),  el ensayo con el simulante B podrá omitirse si el alimento tiene un pH superior a 4,5.
+
+Cuando en la subcolumna D2 el aspa vaya seguida de dos asteriscos (**), el ensayo con el simulante alimentario D2 puede omitirse para esa categoría de alimento si se puede demostrar mediante un ensayo adecuado que no hay «contacto graso» con el material plástico en contacto alimentario.
+
+Cuadro 2
+
+## Asignación específica de simulantes alimentarios a categorías de alimentos
+Categoria 01: Bebidas
+Categoria 01.01, Descripción: Bebidas no alcohólicas o bebidas alcohólicas con un grado alcohólico inferior o igual al 6 % vol.
+Categoria 01.01, A. Bebidas claras: Aguas, sidras, zumos de frutas o de hortalizas claros, simples o concentrados, néctares de frutas, limonadas, jarabes, bíter, infusiones, café, té, cervezas, bebidas sin alcohol, bebidas energéticas y similares, aguas aromatizadas, extracto de café líquido.Para estas bebidas se utilizarán los simulantes B (con asterisco) y C. El ensayo con el simulante B podrá omitirse si el alimento tiene un pH superior a 4,5.
+Categoria 01.01, B. Bebidas turbias: Zumos, néctares y bebidas sin alcohol que contengan pulpa de frutas, mostos que contengan pulpa de frutas, chocolate líquido. Para estas bebidas se utilizará el simulante B (con asterisco). El ensayo con el simulante B podrá omitirse si el alimento tiene un pH superior a 4,5.
+Categoría 01.02, Descripción: Bebidas alcohólicas de grado alcohólico comprendido entre 6 % y 20 % vol. Se utilizará el simulante C.
+Categoría 01.03, Descripción: Bebidas alcohólicas de grado alcohólico superior a 20 % y todos los licores cremosos. Se utilizará el simulante D1.
+Categoría 01.04, Descripción: Diversos: alcohol etílico sin desnaturalizar. Se utilizará el simulante B (con asterisco). Importante: El simulante alimentario D2 se sustituirá por etanol al 95 %.
+
+Categoría 02, Cereales,  derivados  de  los  cereales,  produc­ tos  de  pastelería,  galletería,  bollería  y  panadería.
+Categoría 02.01, Descripción: Almidones y féculas. Se utilizará el simulante E.
+Categoría 02.02, Descripción: Cereales en estado natural, inflados, en copos (incluidas palomitas de maíz, copos de maíz y similares). Se utilizará el simulante E.
+Categoría 02.03, Descripción: Harinas de cereales y sémolas. Se utilizará el simulante E.
+Categoría 02.04, Descripción: Pastas secas, por ejemplo, macarrones, espaguetis y productos similares, y pastas frescas. Se utilizará el simulante E.
+Categoría 02.05, Descripción: Productos secos de pastelería, galletería, bollería y panadería
+Categoría 02.05, A. Con grasas en la superficie. Se utilizará el simulante D2 (X/3). El resultado del ensayo con D2 deberá dividirse por 3 antes de compararlo con el límite de migración.
+Categoría 02.05, B. Otros. Se utilizará el simulante E.
+Categoría 02.06, Descripción: Productos frescos de pastelería, bollería y panadería; masa fresca
+Categoría 02.06, A. Con grasas en la superficie. Se utilizará el simulante D2 (X/3). El resultado del ensayo con D2 deberá dividirse por 3 antes de compararlo con el límite de migración.
+Categoría 02.06, B. Otros. Se utilizará el simulante E.
+
+Categoría 03, Chocolates, azúcares y sus derivados
+categoría 03, Productos de confitería 
+Categoría 03.01, Descripción: Chocolates, productos recubiertos de chocolate, sucedáneos y productos recubiertos de sucedáneos. Se utilizará el simulante D2 (X/3). El resultado del ensayo con D2 deberá dividirse por 3.
+Categoría 03.02, Descripción: Productos de confitería
+Categoría 03.02, A. En forma sólida
+Categoría 03.02, A. En forma sólida. I. Con grasas en la superficie. Se utilizará el simulante D2 (X/3).
+Categoría 03.02, A. En forma sólida. II. Otros. No se han asignado simulantes.
+Categoría 03.02, B. En forma de pasta
+Categoría 03.02, B. En forma de pasta. I. Con grasas en la superficie. Se utilizará el simulante D2 (X/2). El resultado se divide por 2.
+Categoría 03.02, B. En forma de pasta. II. Húmedos. Se utilizará el simulante C.
+Categoría 03.03, Descripción: Azúcares y derivados
+Categoría 03.03, A. En forma sólida: cristales o polvo. Se utilizará el simulante E.
+Categoría 03.03, B. Melazas, jarabes de azúcar, miel y similares. Se utilizará el simulante A.
+Categoría 04.01, Descripción: Frutas enteras, frescas o refrigeradas, sin pelar. No se han asignado simulantes específicos.
+Categoría 04.02, Descripción: Frutas transformadas
+Categoría 04.02, A. Frutas secas o deshidratadas, enteras, troceadas, en harina o en polvo. Se utilizará el simulante E.
+Categoría 04.02, B. Frutas en purés, conservas, pastas, en un jugo o en almíbar (mermeladas, compotas y similares). Se utilizará el simulante B (con asterisco) y C. El ensayo con B podrá omitirse si el alimento tiene un pH superior a 4,5.
+Categoría 04.02, C. Frutas conservadas en un medio líquido:
+Categoría 04.02, C. Frutas conservadas en un medio líquido: I. En un medio oleoso. Se utilizarán los simulantes D1 y D2.
+Categoría 04.02, C. Frutas conservadas en un medio líquido: II. En un medio alcohólico. Se utilizará el simulante D1.
+Categoría 04.03, Descripción: Frutos de cáscara (cacahuetes, castañas, almendras, avellanas, nueces, piñones y otros)
+Categoría 04.03, A. Sin cáscara, secos, en láminas o en polvo, Se utilizará el simulante E.
+Categoría 04.03, B. Sin cáscara y tostados. Se utilizará el simulante E.
+Categoría 04.03, C. En forma de pasta o crema. Se utilizará el simulante A.
+Categoría 04.04, Descripción: Hortalizas enteras, frescas o refrigeradas, sin pelar. No se han asignado simulantes específicos.
+Categoría 04.05, Descripción: Hortalizas transformadas
+Categoría 04.05, A. Hortalizas secas o deshidratadas, enteras, troceadas o en forma de harina o polvo. Se utilizará el simulante E.
+Categoría 04.05, B. Hortalizas frescas, peladas o cortadas. Se utilizará el simulante A y B (con asterisco). El ensayo con B podrá omitirse si el alimento tiene un pH superior a 4,5.
+Categoría 04.05, C. Hortalizas en purés, conservas, pastas o en su jugo (incluidas las encurtidas o en salmuera). Se utilizarán los simulantes B (con asterisco) y C.
+Categoría 04.05, D. Hortalizas en conserva:
+Categoría 04.05, D. Hortalizas en conserva: I. En un medio oleoso. Se utilizarán los simulantes A, D1 y D2.
+Categoría 04.05, D. Hortalizas en conserva: II. En un medio alcohólico. Se utilizará el simulante D1.
+
+Categoría 05, Grasas y aceites
+Categoría 05.01, Descripción: Grasas y aceites animales y vegetales, naturales o tratados (incluidas la mantequilla de cacao, la manteca y la mantequilla reestilificada). Se utilizará el simulante D2 (X/2). El resultado del ensayo se dividirá por 2.
+Categoría 05.02, Descripción: Margarina, mantequilla y otras grasas compuestas de emulsiones acuosas en aceite. Se utilizará el simulante D2 (X/2).
+
+Categoría 06, Productos de origen animal y Huevos
+Categoría 06.01, Descripción: Pescado
+Categoría 06.01, A. Frescos, refrigerados, transformados, salados o ahumados, incluidas las huevas de pescado. Se utilizarán los simulantes A y D2 (X/3 con doble asterisco). El resultado del ensayo con D2 se dividirá por 3, y puede omitirse si se demuestra que no hay contacto graso con el plástico.
+Categoría 06.01, B. Pescados en conserva:
+Categoría 06.01, B. Pescados en conserva: I. En un medio oleoso. Se utilizarán los simulantes A y D2.
+Categoría 06.02, Descripción: Crustáceos y moluscos (incluidos ostras, mejillones y caracoles)
+Categoría 06.02, A. Frescos, en sus conchas, No se han asignado simulantes específicos.
+Categoría 06.02, B. Sin conchas, transformados, conservados o cocidos con la concha
+Categoría 06.02, B. Sin conchas, transformados, conservados o cocidos con la concha. I. En un medio oleoso, Se utilizarán los simulantes A y D2.
+Categoría 06.03, Descripción: Carnes de todas las especies zoológicas (incluidas las aves de corral y la caza)
+Categoría 06.03, A. Frescas, refrigeradas, saladas o ahumadas, Se utilizarán los simulantes A y D2 (X/4 con doble asterisco). El resultado del ensayo se dividirá por 4, y puede omitirse si se demuestra que no hay contacto graso.
+Categoría 06.03, B. Productos cárnicos transformados (jamón, salchichón, bacón, salchichas y otros) o en forma de paté o crema, Se utilizarán los simulantes A y D2 (X/4 con doble asterisco).
+Categoría 06.03, C. Productos cárnicos marinados en un medio oleoso, Se utilizarán los simulantes A y D2.
+Categoría 06.04, Descripción: Carnes en conserva
+Categoría 06.04, A. En un medio graso u oleoso, Se utilizarán los simulantes A y D2 (X/3).
+Categoría 06.04, B. En un medio acuoso, Se utilizarán los simulantes B (con asterisco) y D1.
+Categoría 06.05, Descripción: Huevo entero, yemas y claras de huevo
+Categoría 06.05, A. En polvo, secos o congelados, Se utilizará el simulante E.
+Categoría 06.05, B. Líquidos o cocidos, Se utilizará el simulante D1.
+
+Categoría 07, Productos lácteos 
+Categoría 07.01, Descripción: Leche
+Categoría 07.01, A. Leche y bebidas a base de leche enteras, parcialmente deshidratadas y desnatadas o parcialmente desnatadas, Se utilizarán los simulantes D1 y E.
+Categoría 07.01, B. Leche en polvo, incluido lo preparado para lactantes, Se utilizará el simulante E.
+Categoría 07.02, Descripción: Leche fermentada, como el yogur, la leche batida y productos similares, Se utilizarán los simulantes B (con asterisco) y D1. El ensayo con B podrá omitirse si el alimento tiene un pH superior a 4,5.
+Categoría 07.03, Descripción: Nata y nata ácida, Se utilizarán los simulantes B (con asterisco) y D1.
+Categoría 07.04, Descripción: Queso
+Categoría 07.04, A. Entero, con corteza no comestible, Se utilizará el simulante D2 (X/3 con doble asterisco). El resultado del ensayo con D2 se dividirá por 3, y puede omitirse si no hay contacto graso.
+Categoría 07.04, B. Queso natural sin corteza o con corteza comestible (gouda, camembert y similares) y quesos fundidos, Se utilizarán los simulantes B (con asterisco), D1 y D2 (X/3 con doble asterisco).
+Categoría 07.04, C. Queso transformado (queso fresco, queso cottage y similares), Se utilizarán los simulantes B (con asterisco) y D1.
+Categoría 07.04, D. Queso en conserva:
+Categoría 07.04, D. Queso en conserva: I. En un medio oleoso, Se utilizarán los simulantes A, B (con asterisco) y D2.
+Categoría 07.04, D. Queso en conserva: II. En un medio acuoso (feta, mozzarella y similares), Se utilizarán los simulantes B (con asterisco) y D1.
+
+Categoría 08, Productos diversos
+Categoría 08.01, Descripción: Vinagre, Se utilizará el simulante B.
+Categoría 08.02, Descripción: Alimentos fritos o asados
+Categoría 08.02, A. Patatas fritas, buñuelos y similares, Se utilizará el simulante D2 (X/5). El resultado del ensayo se dividirá por 5.
+Categoría 08.02, B. De origen animal, Se utilizará el simulante D2 (X/4). El resultado del ensayo se divide por 4.
+Categoría 08.03, Descripción: Preparaciones para sopas, caldos o salsas en forma líquida o sólida
+Categoría 08.03, A. En polvo o secos
+Categoría 08.03, A. En polvo o secos. I. De tipo graso, Se utilizará el simulante D2 (X/5).
+Categoría 08.03, A. En polvo o secos. II. Otros, Se utilizará el simulante E.
+Categoría 08.03, B. En otras formas distintas de en polvo o secos
+Categoría 08.03, B. En otras formas distintas de en polvo o secos. I. De tipo graso, Se utilizarán los simulantes A, B (con asterisco) y D2 (X/3).
+Categoría 08.03, B. En otras formas distintas de en polvo o secos. II. Otros, Se utilizarán los simulantes A, B (con asterisco) y D2 (X/3).
+Categoría 08.04, Descripción: Salsas
+Categoría 08.04, A. De tipo acuoso, Se utilizarán los simulantes B (con asterisco) y C.
+Categoría 08.04, B. De tipo graso (mayonesa, alioli, etc.), Se utilizarán los simulantes A, B (con asterisco) y D2 (X/3 con doble asterisco). El ensayo con D2 puede omitirse si no hay contacto graso.
+Categoría 08.05, Descripción: Mostaza (salvo la mostaza en polvo de la partida 08.14), Se utilizarán los simulantes A, B (con asterisco) y D2 (X/3 con doble asterisco).
+Categoría 08.06, Descripción: Sándwiches, tostadas, pizza y similares
+Categoría 08.06, A. Con grasas en la superficie, Se utilizarán los simulantes A y D2 (X/5). El resultado del ensayo con D2 se dividirá por 5 antes de compararlo con el límite de migración.
+Categoría 08.06, B. Otros, Se utilizará el simulante E.
+Categoría 08.07, Descripción: Helados, Se utilizará el simulante C.
+Categoría 08.08, Descripción: Alimentos secos
+Categoría 08.08, A. Con grasas en la superficie, Se utilizará el simulante D2 (X/5).
+Categoría 08.08, B. Otros, Se utilizará el simulante E.
+Categoría 08.09, Descripción: Alimentos congelados o ultracongelados, No se han asignado simulantes específicos en esta fila.
+Categoría 08.10, Descripción: Extractos concentrados con un grado alcohólico inferior o igual al 6 % vol, Se utilizarán los simulantes A (con asterisco) y D1. El ensayo con A podrá omitirse si el alimento tiene un pH superior a 4,5.
+Categoría 08.11, Descripción: Cacao
+Categoría 08.11, A. Cacao en polvo, incluso desgrasado y ultradesgrasado, Se utilizará el simulante E.
+Categoría 08.11, B. Pasta de cacao, Se utilizará el simulante D2 (X/3). El resultado del ensayo se divide por 3 antes de compararlo con el límite de migración.
+Categoría 08.12, Descripción: Café, tostado o no, descafeinado o soluble, sucedáneos del café granulados o en polvo, Se utilizará el simulante E.
+Categoría 08.13, Descripción: Hierbas aromáticas y otras hierbas (manzanilla, malva, menta, té, tila, etc.). Se utilizará el simulante E.
+Categoría 08.14, Descripción: Especias y condimentos en estado natural (canela, clavo, pimienta, mostaza en polvo, etc.). Se utilizará el simulante E.
+Categoría 08.15, Descripción: Especias y condimentos en un medio oleoso (pesto, pasta de curry, etc.). Se utilizará el simulante D2.
+
+## 4. Asignación de simulantes alimentarios para ensayos de migración global
+
+A fin de demostrar la conformidad con el límite de migración global para todos los tipos de alimentos, se realizarán ensa­ yos en agua destilada, en agua de calidad equivalente o en los simulantes alimentarios A, B y D2.
+
+A fin de demostrar la conformidad con el límite de migración global para todos los tipos de alimentos excepto los ali­ mentos ácidos, se realizarán ensayos en agua destilada, en agua de calidad equivalente o en los simulantes alimenta­ rios A y D2.
+
+Para demostrar la conformidad con el límite de migración global para todos los alimentos acuosos y alcohólicos y los productos lácteos, se realizarán ensayos en el simulante alimentario D1.
+
+Para demostrar la conformidad con el límite de migración global para todos los alimentos acuosos, ácidos y alcohólicos y los productos lácteos, se realizarán ensayos en los simulantes alimentarios D1 y B.
+
+Para demostrar la conformidad con el límite de migración global para todos los alimentos acuosos y los alimentos alco­ hólicos hasta un grado alcohólico del 20 %, se realizarán ensayos en el simulante alimentario C.
+
+Para demostrar la conformidad con el límite de migración global para todos los alimentos acuosos y ácidos y los ali­ mentos alcohólicos hasta un grado alcohólico del 20 %, se realizarán ensayos en los simulantes alimentarios C y B.
