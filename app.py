@@ -8,13 +8,17 @@ import time
 # --- Config ---
 CHROMA_PATH = "./chromadb"
 COLLECTION_NAME = "reglamento_chunks"
-OLLAMA_MODEL =  "llama3.2:1b" # o "deepseek-r1:1.5b" 
+OLLAMA_MODEL = "llama3.2:1b" # o "deepseek-r1:1.5b" 
 
 @st.cache_resource(show_spinner=False)
 def load_resources():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     tokenizer = AutoTokenizer.from_pretrained("Alibaba-NLP/gte-multilingual-base", trust_remote_code=True)
     model = AutoModel.from_pretrained("Alibaba-NLP/gte-multilingual-base", trust_remote_code=True).to(device)
+    model.eval()
+    if device == "cuda":
+        model = model.half()
+
     chroma_client = chromadb.PersistentClient(path=CHROMA_PATH)
     collection = chroma_client.get_collection(name=COLLECTION_NAME)
     ollama_client = ollama.Client(host="http://localhost:11434")
@@ -86,7 +90,12 @@ Respuesta:"""
         response = ollama_client.generate(
             model=OLLAMA_MODEL,
             prompt=prompt,
-            stream=False
+            stream=False,
+            options={
+                "temperature": 0.2, 
+                "top_p": 0.9, 
+                "num_predict": 512
+                }
         )
 
         answer = response["response"]

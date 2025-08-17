@@ -7,7 +7,13 @@ from transformers import AutoTokenizer, AutoModel
 import torch
 from nltk.tokenize import sent_tokenize
 
-nltk.download("punkt_tab")
+# nltk.download("punkt_tab")
+# Descargas robustas (una vez)
+for pkg in ["punkt_tab", "punkt"]:
+    try:
+        nltk.data.find(f"tokenizers/{pkg}")
+    except LookupError:
+        nltk.download(pkg)
 
 # --- Chunking personalizado ---
 def sliding_window_chunks(text, max_chars=1050, overlap=170):
@@ -34,7 +40,7 @@ with open("corpus/L00001-00089_final.txt", "r", encoding="utf-8") as f:
     full_text = f.read()
 
 # --- Crear chunks ---
-chunks = sliding_window_chunks(full_text, max_chars=1000, overlap=150)
+chunks = sliding_window_chunks(full_text, max_chars=1024, overlap=150)
 print(f"Total de chunks: {len(chunks)}")
 
 # --- Embeddings con sentence-transformers ---
@@ -45,6 +51,9 @@ model_name = "Alibaba-NLP/gte-multilingual-base"
 
 tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
 model = AutoModel.from_pretrained(model_name, trust_remote_code=True).to(device)
+model.eval()
+if device == "cuda":
+    model = model.half()
 
 def get_embeddings(texts):
     all_embeddings = []
@@ -61,13 +70,14 @@ def get_embeddings(texts):
         all_embeddings.append(mean_pooled.squeeze().cpu().tolist())
     return all_embeddings
 
+
 print("Generando embeddings...")
 embeddings = get_embeddings(chunks)
 
 # --- Inicializar Chroma DB ---
 # client = chromadb.Client()
 chroma_client = chromadb.PersistentClient(path="./chromadb")
-collection = chroma_client.get_or_create_collection(name="reglamento_chunks")
+collection = chroma_client.get_or_create_collection(name="reglamento_chunks", metadata={"hnsw:space": "cosine"})
 
 # --- Añadir chunks a la colección ---
 collection.add(

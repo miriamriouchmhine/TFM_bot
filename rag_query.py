@@ -55,7 +55,7 @@ while True:
 
     # 3. Construir contexto
     context = "\n\n".join(retrieved_chunks)
-
+    print("context", context)
     # 4. Crear prompt para el modelo
     prompt = f"""Eres un asistente experto en regulación. Usa la siguiente información del reglamento para contestar con precisión y claridad.
 
