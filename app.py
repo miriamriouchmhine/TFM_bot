@@ -5,6 +5,15 @@ from transformers import AutoTokenizer, AutoModel
 import torch
 import time
 
+# --- Modelos disponibles en Ollama (tags) ---
+MODEL_CHOICES = {
+    "LLaMA 3.2 (1B)": "llama3.2:1b",
+    "DeepSeek R1 (1.5B)": "deepseek-r1:1.5b",
+    "Gemma 3 (1B)": "gemma3:1b",
+    "Qwen 2.5 (1.5B Instruct)": "qwen2.5:1.5b",
+    "Qwen 3 (1.7B)": "qwen3:1.7b",
+}
+
 # --- Config ---
 CHROMA_PATH = "./chromadb"
 COLLECTION_NAME = "reglamento_chunks"
@@ -42,6 +51,22 @@ def get_embedding(text):
     return mean_pooled.squeeze().cpu().tolist()
 
 st.title("Chat")
+if "selected_model" not in st.session_state:
+    st.session_state.selected_model = OLLAMA_MODEL  # tu valor por defecto
+
+with st.sidebar:
+    st.subheader("Modelo LLM")
+    labels = list(MODEL_CHOICES.keys())
+    values = list(MODEL_CHOICES.values())
+    # intenta preseleccionar el que ya tengas en OLLAMA_MODEL
+    try:
+        default_idx = values.index(st.session_state.selected_model)
+    except ValueError:
+        default_idx = 0
+    label = st.selectbox("Selecciona el modelo", labels, index=default_idx)
+    st.session_state.selected_model = MODEL_CHOICES[label]
+    st.session_state.selected_model_label = label
+    st.caption(f"Usando: `{st.session_state.selected_model}`")
 
 if "history" not in st.session_state:
     st.session_state.history = []
@@ -53,6 +78,14 @@ def generate_response():
     query = st.session_state.query.strip()
     if not query:
         return
+
+    # Modelo “congelado” para ESTE turno
+    chosen_model = st.session_state.get("selected_model", OLLAMA_MODEL)
+    # Resuelve el label aunque no exista en session_state (compat. hacia atrás)
+    chosen_label = st.session_state.get(
+        "selected_model_label",
+        next((k for k, v in MODEL_CHOICES.items() if v == chosen_model), chosen_model)
+    )
 
     with st.spinner("Buscando información y generando respuesta..."):
         # Trazas para el tiempo de obtención de embeddings
@@ -88,7 +121,7 @@ Respuesta:"""
         # Trazas para la generación de respuesta por parte de Ollama
         start_time = time.time()
         response = ollama_client.generate(
-            model=OLLAMA_MODEL,
+            model=chosen_model,
             prompt=prompt,
             stream=False,
             options={
@@ -97,11 +130,16 @@ Respuesta:"""
                 "num_predict": 512
                 }
         )
-
+        print("model_",model)
         answer = response["response"]
         elapsed_time = time.time() - start_time
         print(f"Tiempo para generar la respuesta con Ollama: {elapsed_time:.4f} segundos")
-        st.session_state.history.append({"query": query, "answer": answer})
+        st.session_state.history.append({
+            "query": query,
+            "answer": answer,
+            "model_tag": chosen_model,
+            "model_label": chosen_label,
+        })
 
     # Limpio el input para que quede vacío
     st.session_state.query = ""
@@ -111,5 +149,6 @@ st.text_input("Escribe tu pregunta y pulsa Enter:", key="query", on_change=gener
 
 # Mostrar historial
 for chat_turn in st.session_state.history:
+    shown_label = chat_turn.get("model_label") or chat_turn.get("model_tag") or "modelo"
     st.markdown(f"**Tú:** {chat_turn['query']}")
-    st.markdown(f"**Bot:** {chat_turn['answer']}")
+    st.markdown(f"**Bot — {shown_label}:** {chat_turn['answer']}")
