@@ -195,7 +195,7 @@ for turn in st.session_state.get("history", []):
         st.caption(badges)
         st.markdown(turn["answer"])
 
-# Input de chat (dispara tu generate_response())
+# Input de chat
 if prompt := st.chat_input("Escribe tu pregunta y pulsa Enter:"):
     st.session_state.query = prompt
     generate_response()
