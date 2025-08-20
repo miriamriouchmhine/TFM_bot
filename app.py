@@ -5,6 +5,24 @@ from transformers import AutoTokenizer, AutoModel
 import torch
 import time
 
+st.set_page_config(
+    page_title="Asistente Reglamento UE 10/2011",
+    page_icon="imagenes/icono.png",
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
+
+st.markdown("""
+<style>
+  .block-container{max-width:920px;padding-top:1rem}
+  /* burbujas de chat un poco más 'card' */
+  [data-testid="chat-message"] {border-radius:16px; box-shadow:0 1px 4px rgba(0,0,0,.06)}
+  /* botón ancho en sidebar */
+  .sidebar .stButton button {width:100%}
+</style>
+""", unsafe_allow_html=True)
+
+
 # --- Modelos disponibles en Ollama (tags) ---
 MODEL_CHOICES = {
     "LLaMA 3.2 (1B)": "llama3.2:1b",
@@ -50,7 +68,7 @@ def get_embedding(text):
     print(f"Tiempo para obtener embedding: {elapsed_time:.4f} segundos")  # Imprimir el tiempo
     return mean_pooled.squeeze().cpu().tolist()
 
-st.title("Chat")
+st.title("Chaty")
 if "selected_model" not in st.session_state:
     st.session_state.selected_model = OLLAMA_MODEL  # tu valor por defecto
 
@@ -58,7 +76,7 @@ with st.sidebar:
     st.subheader("Modelo LLM")
     labels = list(MODEL_CHOICES.keys())
     values = list(MODEL_CHOICES.values())
-    # intenta preseleccionar el que ya tengas en OLLAMA_MODEL
+    
     try:
         default_idx = values.index(st.session_state.selected_model)
     except ValueError:
@@ -68,6 +86,15 @@ with st.sidebar:
     st.session_state.selected_model_label = label
     st.caption(f"Usando: `{st.session_state.selected_model}`")
 
+    # --- Nueva conversación ---
+    if st.button("Nueva conversación", type="primary"):
+        st.session_state.history = []
+        st.session_state.query = ""
+        st.rerun()
+
+    # --- Footer (sidebar) ---
+    st.caption("Versión app v0.3 · Índice: 2025-08-13 · Contacto: x@alu.ua.com")
+
 if "history" not in st.session_state:
     st.session_state.history = []
 
@@ -75,6 +102,7 @@ if "query" not in st.session_state:
     st.session_state.query = ""
 
 def generate_response():
+    t0 = time.perf_counter()
     query = st.session_state.query.strip()
     if not query:
         return
@@ -101,6 +129,7 @@ def generate_response():
             n_results=4
         )
         retrieved_chunks = results["documents"][0]
+        n_chunks = len(retrieved_chunks)
         elapsed_time = time.time() - start_time
         print(f"Tiempo para obtener resultados de ChromaDB: {elapsed_time:.4f} segundos")
 
@@ -132,6 +161,7 @@ Respuesta:"""
         )
         print("model_",model)
         answer = response["response"]
+        lat_ms = round((time.perf_counter() - t0) * 1000)
         elapsed_time = time.time() - start_time
         print(f"Tiempo para generar la respuesta con Ollama: {elapsed_time:.4f} segundos")
         st.session_state.history.append({
@@ -139,16 +169,34 @@ Respuesta:"""
             "answer": answer,
             "model_tag": chosen_model,
             "model_label": chosen_label,
+            "lat_ms": lat_ms,                   
+            "n_chunks": n_chunks
         })
 
     # Limpio el input para que quede vacío
     st.session_state.query = ""
 
 # Input con on_change para que se llame al enviar texto
-st.text_input("Escribe tu pregunta y pulsa Enter:", key="query", on_change=generate_response)
+# st.text_input("Escribe tu pregunta y pulsa Enter:", key="query", on_change=generate_response)
 
-# Mostrar historial
-for chat_turn in st.session_state.history:
-    shown_label = chat_turn.get("model_label") or chat_turn.get("model_tag") or "modelo"
-    st.markdown(f"**Tú:** {chat_turn['query']}")
-    st.markdown(f"**Bot — {shown_label}:** {chat_turn['answer']}")
+# # Mostrar historial
+# for chat_turn in st.session_state.history:
+#     shown_label = chat_turn.get("model_label") or chat_turn.get("model_tag") or "modelo"
+#     st.markdown(f"**Tú:** {chat_turn['query']}")
+#     st.markdown(f"**Bot — {shown_label}:** {chat_turn['answer']}")
+# Render del historial en burbujas
+for turn in st.session_state.get("history", []):
+    with st.chat_message("user", avatar="👤"):
+        st.markdown(turn["query"])
+
+    shown_label = turn.get("model_label") or turn.get("model_tag") or "modelo"
+    with st.chat_message("assistant", avatar="🤖"):
+        badges = f"**Modelo:** {shown_label} · **Latencia:** {turn.get('lat_ms','—')} ms · **#Chunks:** {turn.get('n_chunks','—')}"
+        st.caption(badges)
+        st.markdown(turn["answer"])
+
+# Input de chat (dispara tu generate_response())
+if prompt := st.chat_input("Escribe tu pregunta y pulsa Enter:"):
+    st.session_state.query = prompt
+    generate_response()
+    st.rerun()
