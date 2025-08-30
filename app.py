@@ -19,6 +19,66 @@ st.markdown("""
   [data-testid="chat-message"] {border-radius:16px; box-shadow:0 1px 4px rgba(0,0,0,.06)}
   /* botón ancho en sidebar */
   .sidebar .stButton button {width:100%}
+  .app-title{
+    font-size:2.2rem; margin:0 0 .25rem 0; font-weight:800; letter-spacing:.2px; line-height:1.1;
+    background:linear-gradient(90deg,#4f46e5,#06b6d4); -webkit-background-clip:text; color:transparent;
+  }
+  .app-subtitle{ color:#6b7280; margin:0 0 1rem 0 }
+  .header{
+    margin: 6px 0 22px;
+    text-align: center;
+  }
+  .header .app-title{
+    margin: 0;
+    font-size: clamp(28px, 4.4vw, 52px);
+    font-weight: 900;
+    letter-spacing: .3px;
+    line-height: 1.05;
+    background: linear-gradient(90deg,#4f46e5 0%, #06b6d4 55%, #22c55e 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent !important;               /* fuerza el gradiente */
+    -webkit-text-fill-color: transparent !important;
+  }
+  .header .subtitle{
+    color: var(--text-color);
+    opacity: .7;
+    margin: .4rem 0 0;
+    font-size: 0.98rem;
+  }
+  .header .accent{
+    height: 6px; width: 120px; margin: 10px auto 0; border-radius: 999px;
+    background: linear-gradient(90deg,#4f46e5,#06b6d4,#22c55e);
+    filter: blur(.2px);
+  }
+  .badges{ display:flex; gap:.5rem; justify-content:center; margin-top:.75rem; flex-wrap:wrap }
+  .badge{ font-size:.75rem; padding:.3rem .6rem; border-radius:999px; background:rgba(15,23,42,.06); border:1px solid rgba(148,163,184,.25) }
+/* --- Botón "Nueva conversación" en la sidebar --- */
+[data-testid="stSidebar"] .stButton > button{
+  width:100%;
+  border:0 !important;
+  border-radius:999px;
+  padding:.65rem 1rem;
+  font-weight:700;
+  letter-spacing:.2px;
+  color:#fff !important;
+  background-image:linear-gradient(90deg,#4f46e5 0%, #06b6d4 50%, #22c55e 100%) !important;
+  background-size:200% 100% !important;
+  box-shadow:0 6px 18px rgba(79,70,229,.25), inset 0 0 0 1px rgba(255,255,255,.15);
+  transition:background-position .25s ease, transform .06s ease, box-shadow .2s ease, filter .2s ease;
+}
+[data-testid="stSidebar"] .stButton > button:hover{
+  background-position:100% 0 !important;
+  filter:brightness(1.02);
+}
+[data-testid="stSidebar"] .stButton > button:active{
+  transform:translateY(1px);
+  box-shadow:0 3px 10px rgba(79,70,229,.25), inset 0 0 0 1px rgba(255,255,255,.12);
+}
+[data-testid="stSidebar"] .stButton > button:focus-visible{
+  outline:3px solid rgba(6,182,212,.35);
+  outline-offset:2px;
+}
 </style>
 """, unsafe_allow_html=True)
 
@@ -68,7 +128,18 @@ def get_embedding(text):
     print(f"Tiempo para obtener embedding: {elapsed_time:.4f} segundos")  # Imprimir el tiempo
     return mean_pooled.squeeze().cpu().tolist()
 
-st.title("Chaty")
+st.markdown("""
+<div class="header">
+  <h1 class="app-title">Reglamento (UE) 10/2011 · Asistente RAG</h1>
+  <div class="accent"></div>
+  <p class="subtitle">Consulta guiada con recuperación aumentada sobre materiales plásticos en contacto con alimentos.</p>
+  <div class="badges">
+    <span class="badge">Docling</span>
+    <span class="badge">Chroma</span>
+    <span class="badge">Ollama · LLaMA&nbsp;3.2</span>
+  </div>
+</div>
+""", unsafe_allow_html=True)
 if "selected_model" not in st.session_state:
     st.session_state.selected_model = OLLAMA_MODEL  # tu valor por defecto
 
@@ -87,7 +158,7 @@ with st.sidebar:
     st.caption(f"Usando: `{st.session_state.selected_model}`")
 
     # --- Nueva conversación ---
-    if st.button("Nueva conversación", type="primary"):
+    if st.button("Nueva conversación", type="primary", key="new_chat"):
         st.session_state.history = []
         st.session_state.query = ""
         st.rerun()
