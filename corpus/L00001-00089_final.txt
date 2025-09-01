@@ -2747,19 +2747,19 @@ Si el tiempo de contacto previsto es 1 día < t ≤ 3 días, la duración del en
 Si el tiempo de contacto previsto es 3 días < t ≤ 30 días, la duración del ensayo será de 10 días.
 Si el tiempo de contacto es superior a 30 días, deberán consultarse las condiciones específicas aplicables.
 ## Temperatura de contacto
-Si el tiempo de contacto previsto es contacto en las peores condiciones previsibles de uso, la duración del ensayo será de condiciones de ensayo.
-Si el tiempo de contacto previsto es ---------------------------------------------------------, la duración del ensayo será de ---------------------------------------------------------------------------------------------.
-Si el tiempo de contacto previsto es temperatura de contacto, la duración del ensayo será de temperatura de ensayo.
-Si el tiempo de contacto previsto es t ≤ 5 °c, la duración del ensayo será de 5 °c.
-Si el tiempo de contacto previsto es 5 °c < t ≤ 20 °c, la duración del ensayo será de 20 °c.
-Si el tiempo de contacto previsto es 20 °c < t ≤ 40 °c, la duración del ensayo será de 40 °c.
-Si el tiempo de contacto previsto es 40 °c < t ≤ 70 °c, la duración del ensayo será de 70 °c.
-Si el tiempo de contacto previsto es 70 °c < t ≤ 100 °c, la duración del ensayo será de 100 °c o temperatura de reflujo.
-Si el tiempo de contacto previsto es 100 °c < t ≤ 121 °c, la duración del ensayo será de 121 °c ( * ).
-Si el tiempo de contacto previsto es 121 °c < t ≤ 130 °c, la duración del ensayo será de 130 °c ( * ).
-Si el tiempo de contacto previsto es 130 °c < t ≤ 150 °c, la duración del ensayo será de 150 °c ( * ).
-Si el tiempo de contacto previsto es 150 °c < t < 175 °c, la duración del ensayo será de 175 °c ( * ).
-Si el tiempo de contacto previsto es t > 175 °c, la duración del ensayo será de ajustar la temperatura a la temperatura real en el  punto de contacto con el alimento ( * ).
+Si la Temperatura de contacto prevista es contacto en las peores condiciones previsibles de uso, la duración del ensayo será de condiciones de ensayo.
+Si la Temperatura de contacto prevista es ---------------------------------------------------------, la duración del ensayo será de ---------------------------------------------------------------------------------------------.
+Si la Temperatura de contacto prevista es temperatura de contacto, la temperatura de ensayo será de temperatura de ensayo.
+Si la Temperatura de contacto prevista es t ≤ 5 °c, la temperatura de ensayo será de 5 °c.
+Si la Temperatura de contacto prevista es 5 °c < t ≤ 20 °c, la temperatura de ensayo será de 20 °c.
+Si la Temperatura de contacto prevista es 20 °c < t ≤ 40 °c, la temperatura de ensayo será de 40 °c.
+Si la Temperatura de contacto prevista es 40 °c < t ≤ 70 °c, la temperatura de ensayo será de 70 °c.
+Si la Temperatura de contacto prevista es 70 °c < t ≤ 100 °c, la temperatura de ensayo será de 100 °c o temperatura de reflujo.
+Si la Temperatura de contacto prevista es 100 °c < t ≤ 121 °c, la temperatura de ensayo será de 121 °c ( * ).
+Si la Temperatura de contacto prevista es 121 °c < t ≤ 130 °c, la temperatura de ensayo será de 130 °c ( * ).
+Si la Temperatura de contacto prevista es 130 °c < t ≤ 150 °c, la temperatura de ensayo será de 150 °c ( * ).
+Si la Temperatura de contacto prevista es 150 °c < t < 175 °c, la temperatura de ensayo será de 175 °c ( * ).
+Si la Temperatura de contacto prevista es t > 175 °c, la duración del ensayo será de ajustar la temperatura a la temperatura real en el  punto de contacto con el alimento ( * ).
 ( * ) Esta temperatura se usará solo para los simulantes alimentarios D2 y E. Para las aplicaciones calentadas bajo presión, el ensayo de migración podrá efectuarse bajo presión a la temperatura pertinente. Para los simulantes alimentarios A, B, C o D1, el ensayo puede sustituirse por un ensayo a 100 °C o a temperatura de reflujo con una duración cuatro veces superior a la seleccionada conforme a las condiciones del cuadro 1.
 
 ## 2.1.4. Condiciones específicas para tiempos de contacto superiores a 30 días a temperatura ambiente o inferior
